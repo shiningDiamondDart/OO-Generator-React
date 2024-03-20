@@ -1,6 +1,7 @@
 class Model {
     Option: Options;
     constructor() {
+        console.log("new selection model")
         this.Option = Options.Weekly;
     }
 }
@@ -11,6 +12,7 @@ enum Options {
     Monthly = 1 << 2,
     Yearly = 1 << 3,
 }
+
 
 export {
     Model,

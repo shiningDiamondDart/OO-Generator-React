@@ -3,7 +3,6 @@ import Model from '../Models/Time'
 class ViewModel {
     private _Model: Model;
     constructor() {
-        console.log("new time viewmodel");
         this._Model = new Model();
     }
     get StartTime(): string {

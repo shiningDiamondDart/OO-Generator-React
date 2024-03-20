@@ -1,13 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './Landing.css'
 import Time from './Time'
 
 import Selection from './ReccurencePattern/Selection'
+import { Model as SelectionModel } from '../Models/ReccurencePattern/Selection'
+import SelectionViewModel from '../ViewModels/ReccurencePattern/Selection'
 
 
-function App() {
-
-
+function App(selectionModel: SelectionModel) {
+    const selectionViewModel = new SelectionViewModel(selectionModel);
 
   return (
     <>
@@ -19,7 +20,7 @@ function App() {
         </fieldset>
         <fieldset>
               <legend>Reccurence Pattern</legend>
-                <Selection/>
+              <Selection viewModel={selectionViewModel}/>
         </fieldset>
         <fieldset>
             <legend>Range of Reccurence</legend>

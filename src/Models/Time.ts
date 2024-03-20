@@ -12,7 +12,7 @@ class Model {
         this.EndTime.setMinutes(0); this.EndTime.setSeconds(0); this.EndTime.setHours(0);
     }
 
-    SetCron(CurrentCron: CronExpression) {
+    UpdateCron(CurrentCron: CronExpression) {
         CurrentCron.Minute.Value = this.StartTime.getMinutes().toString();
         CurrentCron.Hour.Value = this.StartTime.getHours().toString();
 
