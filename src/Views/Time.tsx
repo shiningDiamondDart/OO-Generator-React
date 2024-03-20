@@ -7,7 +7,6 @@ interface UserViewProps {
     viewModel: ViewModel
 }
 
-
 const Time: React.FC<UserViewProps> = ({ viewModel }) => {
     viewModel = new ViewModel();
     const [StartTime, SetStartTime] = useState(viewModel.StartTime);

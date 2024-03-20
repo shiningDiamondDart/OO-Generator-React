@@ -1,9 +1,10 @@
 import Model from '../Models/Time'
 
 class ViewModel {
-    private _Model: Model
+    private _Model: Model;
     constructor() {
-        this._Model = new Model()
+        console.log("new time viewmodel");
+        this._Model = new Model();
     }
     get StartTime(): string {
         return this._Model.StartTime.getTime().toString();

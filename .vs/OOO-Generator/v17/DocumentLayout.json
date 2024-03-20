@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\views\\time.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\views\\time.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\viewmodels\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\viewmodels\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\models\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\models\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\models\\cron.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\models\\cron.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\views\\landing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\views\\landing.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\models\\reccurencepattern\\selection.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\models\\reccurencepattern\\selection.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\views\\reccurencepattern\\selection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\views\\reccurencepattern\\selection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\viewmodels\\reccurencepattern\\selection.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\viewmodels\\reccurencepattern\\selection.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\models\\cron.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\models\\cron.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\views\\time.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\views\\time.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\models\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\models\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\viewmodels\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\viewmodels\\time.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\src\\views\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:src\\views\\landing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|c:\\users\\diamond.white\\onedrive - dart\\documents\\ooo-generator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{118D5F2E-1D50-4CD8-AEA9-0F2919EE8AB8}|ooo-generator.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,44 +74,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Time.tsx",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\Time.tsx",
               "RelativeDocumentMoniker": "src\\Views\\Time.tsx",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\Time.tsx",
               "RelativeToolTip": "src\\Views\\Time.tsx",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAgAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T16:42:37.063Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Time.ts",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\ViewModels\\Time.ts",
               "RelativeDocumentMoniker": "src\\ViewModels\\Time.ts",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\ViewModels\\Time.ts",
               "RelativeToolTip": "src\\ViewModels\\Time.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T18:43:19.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Time.ts",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\Time.ts",
               "RelativeDocumentMoniker": "src\\Models\\Time.ts",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\Time.ts",
               "RelativeToolTip": "src\\Models\\Time.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T16:47:31.262Z",
               "EditorCaption": ""
@@ -111,58 +122,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Selection.tsx",
+              "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\ReccurencePattern\\Selection.tsx",
+              "RelativeDocumentMoniker": "src\\Views\\ReccurencePattern\\Selection.tsx",
+              "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\ReccurencePattern\\Selection.tsx",
+              "RelativeToolTip": "src\\Views\\ReccurencePattern\\Selection.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T19:43:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selection.ts",
+              "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\ViewModels\\ReccurencePattern\\Selection.ts",
+              "RelativeDocumentMoniker": "src\\ViewModels\\ReccurencePattern\\Selection.ts",
+              "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\ViewModels\\ReccurencePattern\\Selection.ts",
+              "RelativeToolTip": "src\\ViewModels\\ReccurencePattern\\Selection.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T19:46:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selection.ts",
+              "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\ReccurencePattern\\Selection.ts",
+              "RelativeDocumentMoniker": "src\\Models\\ReccurencePattern\\Selection.ts",
+              "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\ReccurencePattern\\Selection.ts",
+              "RelativeToolTip": "src\\Models\\ReccurencePattern\\Selection.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-15T19:46:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Cron.ts",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\Cron.ts",
               "RelativeDocumentMoniker": "src\\Models\\Cron.ts",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Models\\Cron.ts",
               "RelativeToolTip": "src\\Models\\Cron.ts",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCIAAAAtAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T16:54:35.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Landing.tsx",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\Landing.tsx",
               "RelativeDocumentMoniker": "src\\Views\\Landing.tsx",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\Landing.tsx",
               "RelativeToolTip": "src\\Views\\Landing.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T15:26:39.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\index.css",
-              "RelativeDocumentMoniker": "src\\index.css",
-              "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\index.css",
-              "RelativeToolTip": "src\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-15T16:11:22.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\main.tsx",
               "RelativeDocumentMoniker": "src\\main.tsx",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\main.tsx",
               "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-03-15T15:10:48.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Landing.css",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\src\\Views\\Landing.css",
               "RelativeDocumentMoniker": "src\\Views\\Landing.css",
@@ -175,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "launch.json",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\.vscode\\launch.json",
               "RelativeDocumentMoniker": ".vscode\\launch.json",
@@ -183,12 +220,11 @@
               "RelativeToolTip": ".vscode\\launch.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T15:31:52.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:31:52.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -200,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "vite.config.ts",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\vite.config.ts",
               "RelativeDocumentMoniker": "vite.config.ts",
@@ -208,24 +244,22 @@
               "RelativeToolTip": "vite.config.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-15T15:11:59.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:11:59.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ooo-generator",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\ooo-generator.esproj",
               "RelativeDocumentMoniker": "ooo-generator.esproj",
               "ToolTip": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\ooo-generator.esproj",
               "RelativeToolTip": "ooo-generator.esproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-15T15:11:51.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:11:51.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": ".eslintrc.cjs",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\.eslintrc.cjs",
               "RelativeDocumentMoniker": ".eslintrc.cjs",
@@ -233,12 +267,11 @@
               "RelativeToolTip": ".eslintrc.cjs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-15T14:46:45.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T14:46:45.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Diamond.White\\OneDrive - DART\\Documents\\OOO-Generator\\README.md",
               "RelativeDocumentMoniker": "README.md",

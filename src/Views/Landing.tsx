@@ -2,7 +2,12 @@ import React from 'react'
 import './Landing.css'
 import Time from './Time'
 
+import Selection from './ReccurencePattern/Selection'
+
+
 function App() {
+
+
 
   return (
     <>
@@ -13,8 +18,8 @@ function App() {
            
         </fieldset>
         <fieldset>
-            <legend>Reccurence Pattern</legend>
-
+              <legend>Reccurence Pattern</legend>
+                <Selection/>
         </fieldset>
         <fieldset>
             <legend>Range of Reccurence</legend>
@@ -26,5 +31,6 @@ function App() {
     </>
   )
 }
+
 
 export default App
