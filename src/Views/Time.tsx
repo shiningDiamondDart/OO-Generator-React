@@ -25,7 +25,7 @@ const Time: React.FC<UserViewProps> = ({ viewModel }) => {
         </label>
         <label> End:
                 <input type="time" value={Endtime} onChange={handleEndTimeChange}></input>
-        </label>
+            </label>
         </>
     )
 }

@@ -7,15 +7,18 @@ function getBaseLog(x, y) {
 class Model {
     Days: string[]
     DayOption: DaysOfWeek
+    Reccur: number
 
     constructor() {
         this.Days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
         this.DayOption = DaysOfWeek.Monday;
+        this.Reccur = 1;
     }
 
     UpdateCron(CurrentCron: CronExpression) {
         let output = "";            
         let Last = -1;
+        ///Change to iterate on Days
         Object.values(DaysOfWeek).forEach((key, DOfWeek) => {
             //if the sum has the current day
             if ((DOfWeek & this.DayOption) != 0) {
@@ -46,20 +49,25 @@ class Model {
         //add removal for ending ","
 
         CurrentCron.DayOfWeek.Value = output;
+        CurrentCron.DayOfWeek.Step = this.Reccur;
         return CurrentCron;
+
 
     }
 }
 
 enum DaysOfWeek {
     None = 0,
-    Sunday = 1,
-    Monday = 1 << 1,
-    Tuesday = 1 << 2,
-    Wednesday = 1 << 3,
-    Thursday = 1 << 4,
-    Friday = 1 << 5,
-    Saturday = 1 << 6
+    Sun = 1,
+    Mon = 1 << 1,
+    Tue = 1 << 2,
+    Wed = 1 << 3,
+    Thu= 1 << 4,
+    Fri= 1 << 5,
+    Sat= 1 << 6
 }
 
-export default Model
+export {
+    Model,
+    DaysOfWeek,
+}

@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import React from 'react'
 import ViewModel from '../../ViewModels/ReccurencePattern/Selection'
+
+import DayWeek from '../../Views/ReccurencePattern/DayWeek'
+import {ViewModel as DayWeekViewModel } from '../../ViewModels/ReccurencePattern/DayWeek'
 import '../Landing.css'
 
 interface SelectionViewProps {
@@ -29,7 +32,6 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
         viewModel.HideYearly = !viewModel.HideYearly
         _SetHideYearly(HideYearly)
     }
-
     
     /*const handleRadioChange = (e: React.FormEvent<HTMLInputElement>) => {
         if (e.currentTarget.id == "Daily") {
@@ -41,10 +43,17 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
     
     return (
         <>
-            <input name="Option" type="radio" id="Daily" checked={!viewModel.HideDaily}  onChange={() => SetHideDaily(!HideDaily)}></input>
-            <input name="Option" type="radio" id="Weekly" checked={!viewModel.HideWeekly} onChange={() => SetHideWeekly(!HideWeekly)}></input>
-            <input name="Option" type="radio" id="Monthly" checked={!viewModel.HideMonthly}  onChange={() => SetHideMonthly(!HideMonthly)}></input>
-            <input name="Option" type="radio" id="Yearly" checked={!viewModel.HideYearly} onChange={() => SetHideYearly(!HideYearly)}></input>
+            <div>
+                <input name="Option" type="radio" id="Daily" checked={!viewModel.HideDaily} onChange={() => SetHideDaily(!HideDaily)}></input>
+                <input name="Option" type="radio" id="Weekly" checked={!viewModel.HideWeekly} onChange={() => SetHideWeekly(!HideWeekly)}></input>
+                <input name="Option" type="radio" id="Monthly" checked={!viewModel.HideMonthly} onChange={() => SetHideMonthly(!HideMonthly)}></input>
+                <input name="Option" type="radio" id="Yearly" checked={!viewModel.HideYearly} onChange={() => SetHideYearly(!HideYearly)}></input>
+            </div>
+            <div hidden={viewModel.HideDaily}>
+                <DayWeek viewModel={new DayWeekViewModel()} />
+
+            </div>
+            
             {viewModel.getOption() }
 
         </>
