@@ -2,3 +2,8 @@
 thead {
     display: block;
 }
+.small-input {
+    width: 30px; /* Set the width */
+    padding: 5px; /* Add padding */
+    font-size: 14px; /* Set font size */
+}

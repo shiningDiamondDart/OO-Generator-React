@@ -3,7 +3,10 @@ import React from 'react'
 import ViewModel from '../../ViewModels/ReccurencePattern/Selection'
 
 import DayWeek from '../../Views/ReccurencePattern/DayWeek'
-import {ViewModel as DayWeekViewModel } from '../../ViewModels/ReccurencePattern/DayWeek'
+import { ViewModel as DayWeekViewModel } from '../../ViewModels/ReccurencePattern/DayWeek'
+
+import Month from '../../Views/ReccurencePattern/Month'
+import { ViewModel as MonthViewModel } from '../../ViewModels/ReccurencePattern/Month'
 import '../Landing.css'
 
 interface SelectionViewProps {
@@ -39,7 +42,6 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
         }
 
     }*/
-    console.log("AGHAGH")
     
     return (
         <>
@@ -49,12 +51,17 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
                 <input name="Option" type="radio" id="Monthly" checked={!viewModel.HideMonthly} onChange={() => SetHideMonthly(!HideMonthly)}></input>
                 <input name="Option" type="radio" id="Yearly" checked={!viewModel.HideYearly} onChange={() => SetHideYearly(!HideYearly)}></input>
             </div>
+            {viewModel.getOption()}
             <div hidden={viewModel.HideDaily}>
                 <DayWeek viewModel={new DayWeekViewModel()} />
 
             </div>
+            <div hidden={viewModel.HideMonthly}>
+                <Month viewModel={new MonthViewModel()} />
+
+            </div>
             
-            {viewModel.getOption() }
+            
 
         </>
     )

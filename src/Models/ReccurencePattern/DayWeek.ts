@@ -14,7 +14,7 @@ class Model {
         this.DayOption = DaysOfWeek.Monday;
         this.Reccur = 1;
     }
-
+    //completely untested
     UpdateCron(CurrentCron: CronExpression) {
         let output = "";            
         let Last = -1;
@@ -49,7 +49,8 @@ class Model {
         //add removal for ending ","
 
         CurrentCron.DayOfWeek.Value = output;
-        CurrentCron.DayOfWeek.Step = this.Reccur;
+
+        //CurrentCron.DayOfWeek.Step = this.Reccur;
         return CurrentCron;
 
 

@@ -24,7 +24,7 @@ const DayWeek: React.FC<DayWeekViewProps> = ({ viewModel }) => {
     return (
         <>
        
-            Recur every <input value={recur} onChange={(e: React.FormEvent<HTMLInputElement>) => SetRecur(Number(e.currentTarget.value))}></input> week(s) on:
+            Recur every <input className="small-input"  value={recur} onChange={(e: React.FormEvent<HTMLInputElement>) => SetRecur(Number(e.currentTarget.value))}></input> week(s) on:
             {viewModel.recur }
         <table cellSpacing="5" cellPadding="5">
              <tr>
