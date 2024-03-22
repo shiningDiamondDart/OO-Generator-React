@@ -49,7 +49,7 @@ class Model {
         //add removal for ending ","
 
         CurrentCron.DayOfWeek.Value = output;
-
+        //repeating every week is hard on cron
         //CurrentCron.DayOfWeek.Step = this.Reccur;
         return CurrentCron;
 

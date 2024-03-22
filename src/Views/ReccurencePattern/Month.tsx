@@ -19,7 +19,7 @@ const Month: React.FC<MonthViewProps> = ({ viewModel }) => {
     }
 
     return (
-        <>Day
+        <>Repeat 
             <input className="small-input" type="text" onChange={(e: React.FormEvent<HTMLInputElement>) => SetDay(parseInt(e.currentTarget.value))}></input>
             Of Every
             <input className="small-input" type="text"  onChange={(e: React.FormEvent<HTMLInputElement>) => SetRecur(parseInt(e.currentTarget.value))}></input>

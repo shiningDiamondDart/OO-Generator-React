@@ -7,6 +7,9 @@ import { ViewModel as DayWeekViewModel } from '../../ViewModels/ReccurencePatter
 
 import Month from '../../Views/ReccurencePattern/Month'
 import { ViewModel as MonthViewModel } from '../../ViewModels/ReccurencePattern/Month'
+
+import Day from '../../Views/ReccurencePattern/Day'
+import { ViewModel as DayViewModel } from '../../ViewModels/ReccurencePattern/Day'
 import '../Landing.css'
 
 interface SelectionViewProps {
@@ -45,14 +48,19 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
     
     return (
         <>
-            <div>
-                <input name="Option" type="radio" id="Daily" checked={!viewModel.HideDaily} onChange={() => SetHideDaily(!HideDaily)}></input>
-                <input name="Option" type="radio" id="Weekly" checked={!viewModel.HideWeekly} onChange={() => SetHideWeekly(!HideWeekly)}></input>
-                <input name="Option" type="radio" id="Monthly" checked={!viewModel.HideMonthly} onChange={() => SetHideMonthly(!HideMonthly)}></input>
-                <input name="Option" type="radio" id="Yearly" checked={!viewModel.HideYearly} onChange={() => SetHideYearly(!HideYearly)}></input>
-            </div>
-            {viewModel.getOption()}
-            <div hidden={viewModel.HideDaily}>
+            <div className="flex-container-horizontal">
+            <div className="flex-container-vertical">
+                    <div className="reccurence-pattern">
+                        <input name="Option" type="radio" id="Daily" checked={!viewModel.HideDaily} onChange={() => SetHideDaily(!HideDaily)}></input>Daily</div>
+                    <div className="reccurence-pattern">
+                        <input name="Option" type="radio" id="Weekly" checked={!viewModel.HideWeekly} onChange={() => SetHideWeekly(!HideWeekly)}></input>Weekly</div>
+                    <div className="reccurence-pattern">
+                        <input name="Option" type="radio" id="Monthly" checked={!viewModel.HideMonthly} onChange={() => SetHideMonthly(!HideMonthly)}></input>Monthly</div>
+                    <div className="reccurence-pattern">
+                        <input name="Option" type="radio" id="Yearly" checked={!viewModel.HideYearly} onChange={() => SetHideYearly(!HideYearly)}></input>Yearly</div>
+                </div>
+            <div className="spacer"></div>
+            <div hidden={viewModel.HideWeekly}>
                 <DayWeek viewModel={new DayWeekViewModel()} />
 
             </div>
@@ -60,6 +68,11 @@ const Selection: React.FC<SelectionViewProps> = ({ viewModel }) => {
                 <Month viewModel={new MonthViewModel()} />
 
             </div>
+            <div hidden={viewModel.HideDaily}>
+                <Day viewModel={new DayViewModel()} />
+
+            </div>
+        </div>
             
             
 
